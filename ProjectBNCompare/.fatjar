@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Feb 05 08:36:01 BRST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Evaluator.jar
+manifest.mergeall=true
+manifest.mainclass=BIFEvaluator
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
